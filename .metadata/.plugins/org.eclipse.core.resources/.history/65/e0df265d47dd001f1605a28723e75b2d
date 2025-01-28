@@ -1,0 +1,5 @@
+package com.pal.portal.Jobportal.entity;
+
+public class RecruiterProfile {
+
+}
